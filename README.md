@@ -35,12 +35,11 @@ total count of 1700, mean of 74.9, min of 64.0 and max of 85.0
 
 
 total count of 1700, mean of 74.9, min of 64.0 and max of 85.0
+
  
 • Month	Mean calculated	Standard Deviation (Std)
 
 ![image](https://user-images.githubusercontent.com/89875689/147372076-10e2c49d-c523-4aad-a72a-d0aba0b4939f.png)
-
-
 
 
 
